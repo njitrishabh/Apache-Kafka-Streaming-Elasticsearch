@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6866332b-3ee9-4495-b1ca-c9213e3863ab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cg4I4zxSOUSPefIUKxjsSg5NLV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/6.2.3/elasticsearch-rest-client-6.2.3.jar!/org/elasticsearch/client" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kafka-producer-twitter/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.njitrishabh.kafka.tutorial1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/6.2.3/elasticsearch-rest-client-6.2.3.jar!/org/elasticsearch/client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StreamsFilterTweets">
+    <configuration name="ElasticSearchConsumer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.njitrishabh.kafka.ElasticSearchConsumer" />
+      <module name="kafka-consumer-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.njitrishabh.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.njitrishabh.kafka.tutorial1.ElasticSearchConsumer" />
+      <module name="kafkatryoutjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.njitrishabh.kafka.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.njitrishabh.kafka.tutorial1.Main" />
+      <module name="kafkatryoutjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.njitrishabh.kafka.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsFilterTweets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.njitrishabh.streams.StreamsFilterTweets" />
+      <module name="kafka-streams-filter-tweets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.njitrishabh.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterKafkaProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.njitrishabh.kafka.producer.TwitterKafkaProducer" />
+      <module name="kafka-producer-twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.njitrishabh.kafka.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwitterKafkaProducer" />
+        <item itemvalue="Application.StreamsFilterTweets" />
+        <item itemvalue="Application.ElasticSearchConsumer (1)" />
+        <item itemvalue="Application.ElasticSearchConsumer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6866332b-3ee9-4495-b1ca-c9213e3863ab" name="Default Changelist" comment="" />
+      <created>1590936819831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590936819831</updated>
+      <workItem from="1590936821838" duration="4438000" />
+      <workItem from="1591212161630" duration="232000" />
+      <workItem from="1591670047358" duration="25249000" />
+      <workItem from="1591888537517" duration="3417000" />
+      <workItem from="1591900505905" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
